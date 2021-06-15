@@ -21,8 +21,40 @@ body{
 .head_content{
     height: 100%;
     padding: 50vh 20%;
-    border: 2px solid;
+    
 }
+
+:root{
+  font-size: 16px;
+}
+.btn{
+  display: block;
+  text-decoration: none;
+  color: burlywood;
+  background-color: cadetblue;
+}
+
+.main{
+  height: 100vh;
+  background-color: bisque;
+  font-size: 12px;
+
+}
+
+.part1 .part2 .part3 .part4{
+  font-size: 20px;
+  display: inline-block;
+  width: 25%;
+}
+
+card {
+  display: inline-block;
+  min-width: 150px;
+  width: auto;
+  max-width: 250px;
+
+}
+
 
 
 
