@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.head {
+  background-color: aqua;
+  background-image: url(../images/mount.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  height: 100vh;
+  
+  text-align: center;
+  font-size: 20px
+}
+
+.head_content{
+    height: 100%;
+    padding: 50vh 20%;
+    border: 2px solid;
+}
+
+
+
